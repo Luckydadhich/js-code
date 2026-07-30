@@ -7,7 +7,7 @@ let accountState;
 // accountId = 12
 
 // console.log(accountId);
-
+/* prefer not use var*/
 
 
 accountEmail = "test@test"
